@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "testtypes",
+  "info": {
+    "singularName": "testtype",
+    "pluralName": "testtypes",
+    "displayName": "testtype"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "cool": {
+      "type": "richtext"
+    }
+  }
+}
