@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_text_text_mit_bilds",
+  "info": {
+    "displayName": "Text mit Bild",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "richtext"
+    },
+    "bild": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
